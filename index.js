@@ -79,7 +79,7 @@ async function start(file) {
     }
   })
 
-  p.on('exit', code => {
+  p.on('exit', code => {SMoChYxA#RzdUQu0H_gzQIyo3xe1JRAQGTun7jeCLjs5p77VHM1o
     isRunning = false
     console.error(chalk.red(`❌Exited with code: ${code}`))
 
